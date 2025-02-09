@@ -1,0 +1,11 @@
+<svg width="420" height="420" xmlns="http://www.w3.org/2000/svg">
+  <!-- Interlocking circles for harmony -->
+  <circle cx="60" cy="60" r="40" fill="#4CAF50" opacity="0.8"/>
+  <circle cx="100" cy="60" r="40" fill="#8BC34A" opacity="0.8"/>
+  <circle cx="80" cy="90" r="40" fill="#CDDC39" opacity="0.8"/>
+  <!-- Text -->
+  <!-- <text x="120" y="80" font-family="Arial" font-size="60" font-weight="bold" fill="white">HarmoniQ</text> -->
+   <text x="120" y="80" font-family="Arial" font-size="60" fill="white">
+    HarmoniQ<tspan dy="-10" font-size="30">™</tspan>
+  </text>
+</svg>
